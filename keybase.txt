@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/u1i
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.hitzel.net
+  * I am u1i (https://keybase.io/u1i) on keybase.
+  * I have a public key ASAmBfCFPLodeS8nOF38Z4qJNcytXAH2xdHA6oW5MWCZDwo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01202605f0853cba1d792f27385dfc678a8935ccad5c01f6c5d1c0ea85b93160990f0a",
+            "host": "keybase.io",
+            "kid": "01202605f0853cba1d792f27385dfc678a8935ccad5c01f6c5d1c0ea85b93160990f0a",
+            "uid": "d767c065604127671aca5586ecc3d919",
+            "username": "u1i"
+        },
+        "merkle_root": {
+            "ctime": 1498718598,
+            "hash": "cff91ff10e935f37350b31953dd27e16fe442024f9252515de8490c2ac4a39bd9d2dcfb4dc95b2c3fddabbe649efd7f04bc7d8bc6b4b0cced02915c7efeaf1eb",
+            "hash_meta": "4280cfa4e986442b85d667ed28655e394e342bba81ed6cfc72db198ed2bd44b4",
+            "seqno": 1200137
+        },
+        "service": {
+            "hostname": "www.hitzel.net",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.24"
+    },
+    "ctime": 1498718609,
+    "expire_in": 504576000,
+    "prev": "e6236a7bade8009aa3e9b23721e043b9e7eef1d48df3b142c9d05d8361d167d6",
+    "seqno": 22,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgJgXwhTy6HXkvJzhd/GeKiTXMrVwB9sXRwOqFuTFgmQ8Kp3BheWxvYWTFA0J7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMjYwNWYwODUzY2JhMWQ3OTJmMjczODVkZmM2NzhhODkzNWNjYWQ1YzAxZjZjNWQxYzBlYTg1YjkzMTYwOTkwZjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMjYwNWYwODUzY2JhMWQ3OTJmMjczODVkZmM2NzhhODkzNWNjYWQ1YzAxZjZjNWQxYzBlYTg1YjkzMTYwOTkwZjBhIiwidWlkIjoiZDc2N2MwNjU2MDQxMjc2NzFhY2E1NTg2ZWNjM2Q5MTkiLCJ1c2VybmFtZSI6InUxaSJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ5ODcxODU5OCwiaGFzaCI6ImNmZjkxZmYxMGU5MzVmMzczNTBiMzE5NTNkZDI3ZTE2ZmU0NDIwMjRmOTI1MjUxNWRlODQ5MGMyYWM0YTM5YmQ5ZDJkY2ZiNGRjOTViMmMzZmRkYWJiZTY0OWVmZDdmMDRiYzdkOGJjNmI0YjBjY2VkMDI5MTVjN2VmZWFmMWViIiwiaGFzaF9tZXRhIjoiNDI4MGNmYTRlOTg2NDQyYjg1ZDY2N2VkMjg2NTVlMzk0ZTM0MmJiYTgxZWQ2Y2ZjNzJkYjE5OGVkMmJkNDRiNCIsInNlcW5vIjoxMjAwMTM3fSwic2VydmljZSI6eyJob3N0bmFtZSI6Ind3dy5oaXR6ZWwubmV0IiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMjQifSwiY3RpbWUiOjE0OTg3MTg2MDksImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiZTYyMzZhN2JhZGU4MDA5YWEzZTliMjM3MjFlMDQzYjllN2VlZjFkNDhkZjNiMTQyYzlkMDVkODM2MWQxNjdkNiIsInNlcW5vIjoyMiwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEAAZ/kt23P+fUOXMpNxJigFOMexUSQtbiW7t98eZh0ROR3SrZaJC/miB/iTP3YbTCazN+kTFA63hgyta1N1w9kIqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQguBkZ1wy49jLrz5gv1SJsIhTejXXeN7ViCQxi4T5hEeyjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/u1i
+
+==================================================================
